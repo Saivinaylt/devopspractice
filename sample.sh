@@ -10,4 +10,4 @@ echo adding of values above is =$Add
 
 #how export will work checking
 
-echo c - $c
+echo b - $b
