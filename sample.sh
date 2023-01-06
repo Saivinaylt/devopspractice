@@ -7,3 +7,7 @@ echo datafetcchingvaluue is = $Data
 Add=$((30+20/2))
 
 echo adding of values above is =$Add
+
+#how export will work checking
+
+echo b-$b
